@@ -1,0 +1,157 @@
+[
+    {
+      "code": "A",
+      "section_name": "企業戦略文脈",
+      "items": [
+        {
+          "title": "PR業界世界No.1へのビジョン展開",
+          "url": "https://prtimes.jp/main/html/rd/p/000000367.000000204.html"
+        },
+        {
+          "title": "M&A・ベンチャー投資による事業領域拡大",
+          "url": "https://prtimes.jp/main/html/rd/p/000000350.000000204.html"
+        },
+        {
+          "title": "デジタルトランスフォーメーション推進",
+          "url": "https://prtimes.jp/main/html/rd/p/000000383.000000204.html"
+        },
+        {
+          "title": "生成AI活用による業務革新",
+          "url": "https://prtimes.jp/main/html/rd/p/000000393.000000204.html"
+        },
+        {
+          "title": "グローバル展開加速",
+          "url": "https://prtimes.jp/main/html/rd/p/000000397.000000204.html"
+        }
+      ],
+      "social_trend": [
+        "DX推進による事業変革",
+        "グローバル市場での存在感向上",
+        "技術革新への積極投資"
+      ]
+    },
+    {
+      "code": "B",
+      "section_name": "プロダクト文脈",
+      "items": [
+        {
+          "title": "JOBTV（採用マッチングプラットフォーム）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000333.000000204.html"
+        },
+        {
+          "title": "クリニックTV（医療機関特化型動画プラットフォーム）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000395.000000204.html"
+        },
+        {
+          "title": "PR TIMES（プレスリリース配信サービス）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000367.000000204.html"
+        },
+        {
+          "title": "Liver Bank（ライブ配信プラットフォーム）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000290.000000204.html"
+        },
+        {
+          "title": "あしたのチーム（HR評価システム）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000205.000000204.html"
+        }
+      ],
+      "social_trend": [
+        "動画コンテンツの活用",
+        "クラウドサービスの展開",
+        "産業特化型ソリューション"
+      ]
+    },
+    {
+      "code": "C",
+      "section_name": "TOP文脈",
+      "items": [
+        {
+          "title": "ESG経営の推進",
+          "url": "https://prtimes.jp/main/html/rd/p/000000384.000000204.html"
+        },
+        {
+          "title": "女性活躍推進",
+          "url": "https://prtimes.jp/main/html/rd/p/000000389.000000204.html"
+        },
+        {
+          "title": "グループシナジーの最大化",
+          "url": "https://prtimes.jp/main/html/rd/p/000000350.000000204.html"
+        },
+        {
+          "title": "イノベーション創出",
+          "url": "https://prtimes.jp/main/html/rd/p/000000383.000000204.html"
+        },
+        {
+          "title": "地域戦略の展開",
+          "url": "https://prtimes.jp/main/html/rd/p/000000341.000000204.html"
+        }
+      ],
+      "social_trend": [
+        "サステナビリティ重視",
+        "ダイバーシティ推進",
+        "地域活性化への貢献"
+      ]
+    },
+    {
+      "code": "D",
+      "section_name": "業界トレンド文脈",
+      "items": [
+        {
+          "title": "デジタルマーケティングの台頭",
+          "url": "https://prtimes.jp/main/html/rd/p/000000352.000000204.html"
+        },
+        {
+          "title": "HRテック市場の成長",
+          "url": "https://prtimes.jp/main/html/rd/p/000000388.000000204.html"
+        },
+        {
+          "title": "医療DXの進展",
+          "url": "https://prtimes.jp/main/html/rd/p/000000269.000000204.html"
+        },
+        {
+          "title": "生成AI活用の加速",
+          "url": "https://prtimes.jp/main/html/rd/p/000000393.000000204.html"
+        },
+        {
+          "title": "IPOマーケットの活性化",
+          "url": "https://prtimes.jp/main/html/rd/p/000000388.000000204.html"
+        }
+      ],
+      "social_trend": [
+        "デジタル化の加速",
+        "業界横断的なDX推進",
+        "テクノロジー活用の多様化"
+      ]
+    },
+    {
+      "code": "E",
+      "section_name": "グローバル文脈",
+      "items": [
+        {
+          "title": "アジアNo.1 PR企業としての地位確立",
+          "url": "https://prtimes.jp/main/html/rd/p/000000367.000000204.html"
+        },
+        {
+          "title": "海外スタートアップとの連携強化",
+          "url": "https://prtimes.jp/main/html/rd/p/000000397.000000204.html"
+        },
+        {
+          "title": "クロスボーダーM&Aの推進",
+          "url": "https://prtimes.jp/main/html/rd/p/000000350.000000204.html"
+        },
+        {
+          "title": "グローバル人材の育成",
+          "url": "https://prtimes.jp/main/html/rd/p/000000389.000000204.html"
+        },
+        {
+          "title": "国際競争力の強化",
+          "url": "https://prtimes.jp/main/html/rd/p/000000367.000000204.html"
+        }
+      ],
+      "social_trend": [
+        "アジア市場でのプレゼンス向上",
+        "グローバルな事業展開",
+        "国際的な技術提携の推進"
+      ]
+    }
+  ]
